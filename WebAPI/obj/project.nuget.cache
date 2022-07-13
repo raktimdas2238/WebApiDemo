@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1c8mz6fG3q2JS9C1mdDcYXsAzXGd/MAaOo2qZP8rvsAZ0BzJJVCaavFwawZTyQGFWUEPPfPEfq5v4lrTb8VYJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rakti\\OneDrive\\Desktop\\C# Practice\\Practice\\WebApi\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rakti\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\rakti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
